@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/bert_classify_service/project/bert_classify" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/bert_classify_service/project/contents_vector" vcs="Git" />
   </component>
 </project>

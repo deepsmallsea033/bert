@@ -1,5 +1,2 @@
-bert 程序总体流程
-1.在bert代码结构中使用了tensorflow的高级api接口estimator,所有的数据格式要符合estimator的要求
-2.对于数据数据来说，首先数据数据转换成inputexample格式，然后inputexample格式转成inputfeature格式，然后inputfeature转成tfrecord.dataset格式
-3.无论是微调还是直接使用原始bert的网络参数，都需要从新定义一下网络结构
+利用bert实现的几个demo
 
